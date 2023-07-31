@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **TRADING**
 
-- 📫 How to reach me **dp6207102@gmail.com**
+- 📫 mail------ **dp6207102@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
