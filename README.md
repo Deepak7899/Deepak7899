@@ -1,4 +1,4 @@
-[![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)]
+![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
 
 
 <h1 align="center">Hi 👋, I'm Deepak Prajapati</h1>
@@ -13,8 +13,7 @@
 - 🌱 I’m currently learning--**TRADING**
 
 - 📫 mail--------------------**dp6207102@gmail.com**
-
-- ⚡ Fun fact----------------**I am funny**
+- ⚡ linkedin-----https://www.linkedin.com/in/deepak-prajapati-b4833821b/
 - ⚡ facebook-------------------https://www.facebook.com/profile.php?id=100071639343062&mibextid=ZbWKwL
 
 <h3 align="left">Connect with me:</h3>
