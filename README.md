@@ -10,16 +10,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning--**TRADING**
+<!-- - 🌱 I’m currently learning--**TRADING**
 
 - 📫 mail--------------------**dp6207102@gmail.com**
 - ⚡ linkedin-----https://www.linkedin.com/in/deepak-prajapati-b4833821b/
-- ⚡ facebook-------------------https://www.facebook.com/profile.php?id=100071639343062&mibextid=ZbWKwL
+- ⚡ facebook-------------------https://www.facebook.com/profile.php?id=100071639343062&mibextid=ZbWKwL -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/deepak prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deepak prajapati" height="30" width="40" /></a>
+
 <a href="https://instagram.com/__dark__shadow__19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__dark__shadow__19" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/deepak-prajapati-b4833821b/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="deepak prajapati" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
