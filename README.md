@@ -117,7 +117,7 @@ const deepak = {
   <img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=deepak7899&bg_color=0d1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&hide_border=true" />
 </div>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 Contribution Graph
 
@@ -132,14 +132,6 @@ const deepak = {
 <div align="center">
 
 <br/>
-
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<br/>
-
-
 
 
 
