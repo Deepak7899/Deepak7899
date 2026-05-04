@@ -133,15 +133,15 @@ const deepak = {
 
 <br/>
 
-### ✍️ Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
 
-### 🎵 Spotify Playing
 
-[![Spotify](https://novatorem-deepak7899.vercel.app/api/spotify)](https://open.spotify.com/user/deepak7899)
+
+
 
 </div>
 
