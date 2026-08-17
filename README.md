@@ -37,7 +37,7 @@
 
 
 <!-- ========================================================= -->
-<!-- 👨‍💻 ABOUT ME -->
+<!--                    👨‍💻 ABOUT ME                         -->
 <!-- ========================================================= -->
 
 <h2 align="center">👨‍💻 About Me</h2>
@@ -45,8 +45,8 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=A9FEF7&center=true&vCenter=true&width=750&lines=Building+Digital+Solutions+%F0%9F%9A%80;Automating+Infrastructure+%E2%9A%99%EF%B8%8F;Exploring+Cloud+%26+DevOps+%E2%98%81%EF%B8%8F;Learning+AI%2FML+%F0%9F%A4%96;Always+Building.+Always+Learning.+%E2%9C%A8"
-  alt="About Me"
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=A9FEF7&center=true&vCenter=true&width=850&height=55&lines=Full+Stack+Developer+%F0%9F%9A%80;DevOps+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Building+%26+Automating+Digital+Solutions+%E2%9A%99%EF%B8%8F;Turning+Ideas+Into+Working+Products+%F0%9F%92%A1"
+  alt="Typing introduction"
 />
 
 </div>
@@ -55,43 +55,47 @@
 
 <div align="center">
 
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2200&pause=700&color=57ABFF&center=true&vCenter=true&width=700&height=40&lines=%3C+BUILD+%3E+%E2%86%92+%3C+AUTOMATE+%3E+%E2%86%92+%3C+DEPLOY+%3E+%E2%86%92+%3C+SCALE+%3E;%3CPython%3E+%E2%80%A2+%3CDjango%3E+%E2%80%A2+%3CDocker%3E+%E2%80%A2+%3CKubernetes%3E;%3CLinux%3E+%E2%80%A2+%3CGit%3E+%E2%80%A2+%3CCI%2FCD%3E+%E2%80%A2+%3CCloud%3E"
+  alt="Development workflow"
+/>
+
+</div>
+
+<br>
+
+<!-- ===================== PROFILE =========================== -->
+
+<div align="center">
+
 <table>
 <tr>
-<td align="center" width="33%">
 
-### 🚀 BUILD
+<td width="50%" valign="top">
 
-**Full Stack Development**
+<h3 align="center">🚀 What I Build</h3>
 
-Python • Django  
-JavaScript • React  
-REST APIs • Web Apps
-
-</td>
-
-<td align="center" width="33%">
-
-### ⚙️ AUTOMATE
-
-**DevOps & Automation**
-
-Docker • Kubernetes  
-Linux • Git • CI/CD  
-Infrastructure Automation
+<p align="center">
+Scalable web applications<br/>
+Backend APIs & services<br/>
+Automation systems<br/>
+Containerized applications
+</p>
 
 </td>
 
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-### ☁️ SCALE
+<h3 align="center">⚙️ What I Work With</h3>
 
-**Cloud & Infrastructure**
-
-Cloud Architecture  
-Containerized Systems  
-Scalable Infrastructure
+<p align="center">
+Python • Django • JavaScript<br/>
+Docker • Kubernetes • Linux<br/>
+Git • CI/CD • Cloud
+</p>
 
 </td>
+
 </tr>
 </table>
 
@@ -99,35 +103,60 @@ Scalable Infrastructure
 
 <br>
 
-<!-- Terminal Window -->
+<!-- ===================== ANIMATED STACK ===================== -->
 
 <div align="center">
 
-<table>
-<tr>
-<td>
+<img src="https://skillicons.dev/icons?i=python,django,js,react,nodejs,docker,kubernetes,linux,git,github,mysql&perline=11" />
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  ● ● ●     deepak@developer ~                              │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  $ whoami                                                    │
-│                                                              │
-│  Deepak Prajapati                                            │
-│  Full Stack Developer • DevOps • Cloud                       │
-│                                                              │
-│  $ cat current-focus.txt                                     │
-│                                                              │
-│  ├── 🐍 Python & Django                                      │
-│  ├── ⚙️  DevOps & Automation                                 │
-│  ├── 🐳 Docker & Kubernetes                                  │
-│  ├── ☁️  Cloud Infrastructure                                │
-│  ├── 🤖 AI / ML                                              │
-│  └── 🚀 Scalable Systems                                     │
-│                                                              │
-│  $ echo $STATUS                                              │
-│                                                              │
-│  ████████████████████████████████████████  BUILDING... 🚀   │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+</div>
+
+<br>
+
+<!-- ===================== CURRENT FOCUS ====================== -->
+
+<div align="center">
+
+### 🌱 Currently Exploring
+
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2500&pause=800&color=A9FEF7&center=true&vCenter=true&width=650&height=40&lines=Cloud+Architecture+%E2%98%81%EF%B8%8F;DevOps+%26+Infrastructure+Automation+%E2%9A%99%EF%B8%8F;AI+%2F+ML+%F0%9F%A4%96;Scalable+Distributed+Systems+%F0%9F%8C%90"
+  alt="Current focus"
+/>
+
+</div>
+
+<br>
+
+<!-- ===================== PHILOSOPHY ========================= -->
+
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=800&height=35&lines=%22Build+something+useful.+Automate+what+you+can.+Keep+learning.%22"
+  alt="Developer philosophy"
+/>
+
+</div>
+
+<br>
+
+<!-- ===================== CTA =============================== -->
+
+<div align="center">
+
+<a href="https://github.com/deepak7899?tab=repositories">
+<img src="https://img.shields.io/badge/🚀_Explore_My_Projects-0D1117?style=for-the-badge&logo=github&logoColor=A9FEF7&labelColor=0D1117&color=30363D"/>
+</a>
+
+<a href="mailto:dp6207102@gmail.com">
+<img src="https://img.shields.io/badge/💬_Let's_Connect-0D1117?style=for-the-badge&logo=gmail&logoColor=A9FEF7&labelColor=0D1117&color=30363D"/>
+</a>
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                    END ABOUT ME                           -->
+<!-- ========================================================= -->
