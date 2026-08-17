@@ -1,25 +1,15 @@
+
 <div align="center">
 
-<!-- Dynamic Typing Header -->
+<!-- ========================= HEADER ========================= -->
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+I'm+Deepak+Prajapati;Full+Stack+Developer+%F0%9F%92%BB;Building+Digital+Solutions+%F0%9F%9A%80;Passionate+About+Clean+Code+%E2%9C%A8" alt="Typing SVG" />
 
-<!-- Custom Animated Developer Banner -->
 <img src="/deepak-developer-banner.gif" width="100%" alt="Deepak Prajapati Developer Banner"/>
 
-<!-- </div>
-<div align="center">
+<br/>
 
-<!-- Dynamic Typing Header -->
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+I'm+Deepak+Prajapati;Full+Stack+Developer+%F0%9F%92%BB;Building+Digital+Solutions+%F0%9F%9A%80;Passionate+About+Clean+Code+%E2%9C%A8" alt="Typing SVG" />
-
-<img src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif" width="100%" height="300px"/>
-
-</div> --> -->
-
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
 
 ### 🚀 Full Stack Developer | 💡 Problem Solver | 🎯 Tech Enthusiast
 
@@ -29,84 +19,73 @@
 
 </div>
 
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
-<br/>
-
-<!-- About Me Section with GIF -->
-<img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif">
-
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       ABOUT ME SECTION                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================= ABOUT ME ========================= -->
 
 ## 👨‍💻 About Me
 
+<div align="center">
+
 <table>
 <tr>
-<td width="58%" valign="top">
 
-### ✨ Hey, I'm Deepak Prajapati!
+<td width="60%" valign="middle">
 
-I'm a **Full Stack Developer** from 🇮🇳 India who enjoys turning ideas into **clean, scalable and meaningful digital solutions**.
+### `deepak@developer:~$`
 
-I love working across the stack — from designing responsive interfaces to building powerful backend systems and APIs.
+**Full Stack Developer** 🇮🇳
 
-<br/>
-
-### 🚀 What I'm Doing
-
-- 🔭 Building **innovative web applications**
-- 🌱 Exploring **Cloud Architecture & AI/ML**
-- 📈 Learning and exploring **Trading & Financial Technologies**
-- 🧠 Improving my skills in **System Design & Backend Development**
-- 🤝 Interested in **Open Source & Collaborative Projects**
+Building modern and scalable web applications with a focus on clean code, backend architecture and practical solutions.
 
 <br/>
 
-### 💡 Ask Me About
+**💻 Core Stack**
 
-`Python` · `Django` · `JavaScript` · `React` · `Node.js` · `REST APIs`
+`Python` · `Django` · `JavaScript` · `React` · `Node.js`
 
-<br/>
+**🗄️ Backend & Data**
 
-> 💭 **"First make it work. Then make it clean. Then make it beautiful."**
+`REST APIs` · `MySQL` · `Backend Architecture`
+
+**☁️ Exploring**
+
+`Cloud` · `AI/ML` · `System Design`
+
+**⚡ Mindset**
+
+`Build` → `Learn` → `Improve` → `Repeat`
 
 </td>
 
-<td width="42%" align="center" valign="middle">
+<td width="40%" align="center">
 
-<img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif" width="380" alt="Developer Coding Animation"/>
+<img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif" width="350" alt="Developer Coding Animation"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/💻_Full_Stack-Developer-A9FEF7?style=for-the-badge&labelColor=0d1117"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
 <br/>
-<img src="https://img.shields.io/badge/🐍_Python-Django-3776AB?style=for-the-badge&labelColor=0d1117"/>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
 <br/>
-<img src="https://img.shields.io/badge/⚡_Always-Learning-A9FEF7?style=for-the-badge&labelColor=0d1117"/>
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
+
 </tr>
 </table>
 
 <br/>
 
-<div align="center">
-
-### ⚡ A Little More About Me
-
-| 🎯 Focus | 💻 Passion | 🌱 Growth |
-|:---:|:---:|:---:|
-| Building Digital Products | Writing Clean Code | Learning New Technologies |
-| Backend Architecture | Web Development | Cloud & AI |
-| Problem Solving | Open Source | Continuous Improvement |
-
-<br/>
-
-**🎮 Fun Fact:** I debug with `console.log()` and I'm proud of it! 😄
+`⚡ Code` &nbsp;&nbsp; `🚀 Build` &nbsp;&nbsp; `☁️ Deploy` &nbsp;&nbsp; `🧠 Learn` &nbsp;&nbsp; `🔧 Improve`
 
 </div>
 
@@ -114,20 +93,7 @@ I love working across the stack — from designing responsive interfaces to buil
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- ========================= CONNECT ========================= -->
 
 ## 🌐 Connect With Me
 
@@ -138,13 +104,18 @@ I love working across the stack — from designing responsive interfaces to buil
 
 </div>
 
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ========================= TECH STACK ========================= -->
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ### 💻 Languages
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -154,79 +125,94 @@ I love working across the stack — from designing responsive interfaces to buil
 ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
 
 ### ⚙️ Backend & Frameworks
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 
 ### 🎨 Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🔧 Tools & Technologies
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### ☁️ Cloud & DevOps
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ceph](https://img.shields.io/badge/Ceph-EF5C55?style=for-the-badge&logo=ceph&logoColor=white)
 
 ### 🗄️ Database
+
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-
 
 </div>
 
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ========================= GITHUB STATS ========================= -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=deepak7899&show_icons=true&count_private=true&hide_border=true&title_color=A9FEF7&icon_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117" alt="Deepak Prajapati github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak7899&theme=radical&hide_border=true&stroke=0000&background=0d1117&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7" />
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=deepak7899&show_icons=true&count_private=true&hide_border=true&title_color=A9FEF7&icon_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117" alt="Deepak Prajapati GitHub Stats" />
+
+<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak7899&theme=radical&hide_border=true&stroke=0000&background=0d1117&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7" alt="GitHub Streak" />
+
 </div>
+
+<br/>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak7899&layout=compact&hide_border=true&title_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-  <img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=deepak7899&bg_color=0d1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&hide_border=true" />
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak7899&layout=compact&hide_border=true&title_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+
+<img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=deepak7899&bg_color=0d1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
+
 </div>
 
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ========================= CONTRIBUTIONS ========================= -->
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  
-[![Deepak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deepak7899&bg_color=0d1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&area=true&hide_border=true)](https://github.com/deepak7899)
+
+[![Deepak's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepak7899&bg_color=0d1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&area=true&hide_border=true)](https://github.com/deepak7899)
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
 
 <br/>
 
-
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ========================= FOOTER ========================= -->
 
 <div align="center">
 
 ### 💖 Thanks for visiting my profile!
 
+<br/>
+
 ![](https://hit.yhype.me/github/profile?user_id=deepak7899)
 
 **Made with ❤️ by Deepak Prajapati**
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
