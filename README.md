@@ -6,15 +6,15 @@
 <!-- Custom Animated Developer Banner -->
 <img src="/deepak-developer-banner.gif" width="100%" alt="Deepak Prajapati Developer Banner"/>
 
-</div>
+<!-- </div>
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+I'm+Deepak+Prajapati;Full+Stack+Developer+%F0%9F%92%BB;Building+Digital+Solutions+%F0%9F%9A%80;Passionate+About+Clean+Code+%E2%9C%A8" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+I'm+Deepak+Prajapati;Full+Stack+Developer+%F0%9F%92%BB;Building+Digital+Solutions+%F0%9F%9A%80;Passionate+About+Clean+Code+%E2%9C%A8" alt="Typing SVG" />
 
 <img src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif" width="100%" height="300px"/>
 
-</div>
+</div> --> -->
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
