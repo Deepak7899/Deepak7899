@@ -37,25 +37,98 @@
 <!-- About Me Section with GIF -->
 <img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif">
 
+```markdown
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       ABOUT ME SECTION                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 ## 👨‍💻 About Me
 
-```javascript
-const deepak = {
-    location: "India 🇮🇳",
-    currentFocus: "Full Stack Development",
-    learning: ["Trading", "Cloud Architecture", "AI/ML"],
-    hobbies: ["Coding", "Tech Blogs", "Open Source"],
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
-};
-```
+<table>
+<tr>
+<td width="58%" valign="top">
 
-- 🔭 Currently working on **innovative web solutions**
-- 🌱 Learning **Trading & Advanced Development**
-- 💬 Ask me about **Python, Django, Web Development**
-- 📫 Reach me at **dp6207102@gmail.com**
-- ⚡ Fun fact: **Code never lies, comments sometimes do!**
+### ✨ Hey, I'm Deepak Prajapati!
+
+I'm a **Full Stack Developer** from 🇮🇳 India who enjoys turning ideas into **clean, scalable and meaningful digital solutions**.
+
+I love working across the stack — from designing responsive interfaces to building powerful backend systems and APIs.
+
+<br/>
+
+### 🚀 What I'm Doing
+
+- 🔭 Building **innovative web applications**
+- 🌱 Exploring **Cloud Architecture & AI/ML**
+- 📈 Learning and exploring **Trading & Financial Technologies**
+- 🧠 Improving my skills in **System Design & Backend Development**
+- 🤝 Interested in **Open Source & Collaborative Projects**
+
+<br/>
+
+### 💡 Ask Me About
+
+`Python` · `Django` · `JavaScript` · `React` · `Node.js` · `REST APIs`
+
+<br/>
+
+> 💭 **"First make it work. Then make it clean. Then make it beautiful."**
+
+</td>
+
+<td width="42%" align="center" valign="middle">
+
+<img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif" width="380" alt="Developer Coding Animation"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/💻_Full_Stack-Developer-A9FEF7?style=for-the-badge&labelColor=0d1117"/>
+<br/>
+<img src="https://img.shields.io/badge/🐍_Python-Django-3776AB?style=for-the-badge&labelColor=0d1117"/>
+<br/>
+<img src="https://img.shields.io/badge/⚡_Always-Learning-A9FEF7?style=for-the-badge&labelColor=0d1117"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### ⚡ A Little More About Me
+
+| 🎯 Focus | 💻 Passion | 🌱 Growth |
+|:---:|:---:|:---:|
+| Building Digital Products | Writing Clean Code | Learning New Technologies |
+| Backend Architecture | Web Development | Cloud & AI |
+| Problem Solving | Open Source | Continuous Improvement |
+
+<br/>
+
+**🎮 Fun Fact:** I debug with `console.log()` and I'm proud of it! 😄
+
+</div>
+
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 🌐 Connect With Me
 
