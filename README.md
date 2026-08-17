@@ -29,42 +29,116 @@
 
 <!-- About Me -->
 <img align="right" alt="Coding" width="380" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif">
+<!-- ABOUT ME -->
 
-## 👨‍💻 About Me
+<!-- ====================================================== -->
 
-```javascript
-const deepak = {
-    location: "India 🇮🇳",
+👨‍💻 About Me
 
-    role: "Full Stack Developer",
+<div align="center">
 
-    interests: [
-        "Web Development",
-        "DevOps",
-        "Cloud Architecture",
-        "Automation",
-        "AI/ML"
-    ],
+🚀 Building • Automating • Learning • Shipping
 
-    currentlyLearning: [
-        "Cloud Architecture",
-        "AI/ML",
-        "Trading"
-    ],
+I'm a Full Stack Developer passionate about building scalable web applications,
+automation systems and modern infrastructure.
 
-    technologies: {
-        backend: ["Python", "Django", "Node.js", "Express.js"],
-        frontend: ["HTML", "CSS", "JavaScript", "React"],
-        devops: ["Docker", "Git", "Linux", "CI/CD"],
-        cloud: ["Cloud Infrastructure", "Ceph"],
-        databases: ["MySQL"]
-    },
+I enjoy turning ideas into working products — from backend APIs and web applications
+to Dockerized services, cloud infrastructure and DevOps automation.
 
-    hobbies: [
-        "Coding",
-        "Tech Blogs",
-        "Open Source"
-    ],
+</div>
 
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
-};
+<br>
+
+<table> <tr>
+
+<td width="33%" valign="top">
+
+🚀 What I Do
+💻 Full Stack Development
+🐍 Python & Django
+🌐 Web Applications
+🔌 REST APIs
+⚙️ Automation
+🐳 Containerization
+☁️ Cloud Infrastructure
+🔧 DevOps
+
+</td>
+
+<td width="33%" valign="top">
+
+🧠 What I Work With
+Python
+Django
+JavaScript
+React
+Node.js
+Docker
+Kubernetes
+Linux
+Git
+MySQL
+Ceph
+CI/CD
+
+</td>
+
+<td width="33%" valign="top">
+
+🌱 Currently Exploring
+☁️ Cloud Architecture
+🤖 AI / ML
+⚙️ DevOps Automation
+📦 Kubernetes
+🔐 Infrastructure & Security
+📈 Trading & Technology
+🚀 Scalable Systems
+
+</td>
+
+</tr> </table>
+
+<br>
+
+<div align="center">
+
+💻 Developer Mode
+┌──────────────────────────────────────────────────────────────┐
+│  deepak@developer:~$ ./build-profile.sh                     │
+│                                                              │
+│  [✓] Full Stack Development                                 │
+│  [✓] Python & Django                                         │
+│  [✓] Docker & Kubernetes                                    │
+│  [✓] Linux & Git                                             │
+│  [✓] Cloud Infrastructure                                   │
+│  [✓] DevOps & Automation                                    │
+│  [→] AI / ML                                                 │
+│                                                              │
+│  Status: BUILDING THE FUTURE 🚀                             │
+└──────────────────────────────────────────────────────────────┘
+
+</div>
+
+<br>
+
+<div align="center">
+
+⚡ Quick Facts
+🌍 Location	💻 Role	🧩 Focus	☕ Fuel
+🇮🇳 India	Full Stack Developer	Cloud & DevOps	Coffee + Code
+
+</div>
+
+<br>
+
+<div align="center">
+
+💬 Let's Build Something
+
+Have an idea, project, or interesting problem?
+
+I'm always interested in building, experimenting and learning something new.
+
+📫 Let's Connect
+
+</div>
