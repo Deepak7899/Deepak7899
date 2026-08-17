@@ -33,112 +33,101 @@
 
 <!-- ====================================================== -->
 
-👨‍💻 About Me
+
+
+
+<!-- ========================================================= -->
+<!-- 👨‍💻 ABOUT ME -->
+<!-- ========================================================= -->
+
+<h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
 
-🚀 Building • Automating • Learning • Shipping
-
-I'm a Full Stack Developer passionate about building scalable web applications,
-automation systems and modern infrastructure.
-
-I enjoy turning ideas into working products — from backend APIs and web applications
-to Dockerized services, cloud infrastructure and DevOps automation.
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=A9FEF7&center=true&vCenter=true&width=750&lines=Building+Digital+Solutions+%F0%9F%9A%80;Automating+Infrastructure+%E2%9A%99%EF%B8%8F;Exploring+Cloud+%26+DevOps+%E2%98%81%EF%B8%8F;Learning+AI%2FML+%F0%9F%A4%96;Always+Building.+Always+Learning.+%E2%9C%A8"
+  alt="About Me"
+/>
 
 </div>
 
 <br>
 
-<table> <tr>
+<div align="center">
 
-<td width="33%" valign="top">
+<table>
+<tr>
+<td align="center" width="33%">
 
-🚀 What I Do
-💻 Full Stack Development
-🐍 Python & Django
-🌐 Web Applications
-🔌 REST APIs
-⚙️ Automation
-🐳 Containerization
-☁️ Cloud Infrastructure
-🔧 DevOps
+### 🚀 BUILD
 
-</td>
+**Full Stack Development**
 
-<td width="33%" valign="top">
-
-🧠 What I Work With
-Python
-Django
-JavaScript
-React
-Node.js
-Docker
-Kubernetes
-Linux
-Git
-MySQL
-Ceph
-CI/CD
+Python • Django  
+JavaScript • React  
+REST APIs • Web Apps
 
 </td>
 
-<td width="33%" valign="top">
+<td align="center" width="33%">
 
-🌱 Currently Exploring
-☁️ Cloud Architecture
-🤖 AI / ML
-⚙️ DevOps Automation
-📦 Kubernetes
-🔐 Infrastructure & Security
-📈 Trading & Technology
-🚀 Scalable Systems
+### ⚙️ AUTOMATE
+
+**DevOps & Automation**
+
+Docker • Kubernetes  
+Linux • Git • CI/CD  
+Infrastructure Automation
 
 </td>
 
-</tr> </table>
+<td align="center" width="33%">
+
+### ☁️ SCALE
+
+**Cloud & Infrastructure**
+
+Cloud Architecture  
+Containerized Systems  
+Scalable Infrastructure
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br>
 
+<!-- Terminal Window -->
+
 <div align="center">
 
-💻 Developer Mode
+<table>
+<tr>
+<td>
+
+```text
 ┌──────────────────────────────────────────────────────────────┐
-│  deepak@developer:~$ ./build-profile.sh                     │
+│  ● ● ●     deepak@developer ~                              │
+├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  [✓] Full Stack Development                                 │
-│  [✓] Python & Django                                         │
-│  [✓] Docker & Kubernetes                                    │
-│  [✓] Linux & Git                                             │
-│  [✓] Cloud Infrastructure                                   │
-│  [✓] DevOps & Automation                                    │
-│  [→] AI / ML                                                 │
+│  $ whoami                                                    │
 │                                                              │
-│  Status: BUILDING THE FUTURE 🚀                             │
+│  Deepak Prajapati                                            │
+│  Full Stack Developer • DevOps • Cloud                       │
+│                                                              │
+│  $ cat current-focus.txt                                     │
+│                                                              │
+│  ├── 🐍 Python & Django                                      │
+│  ├── ⚙️  DevOps & Automation                                 │
+│  ├── 🐳 Docker & Kubernetes                                  │
+│  ├── ☁️  Cloud Infrastructure                                │
+│  ├── 🤖 AI / ML                                              │
+│  └── 🚀 Scalable Systems                                     │
+│                                                              │
+│  $ echo $STATUS                                              │
+│                                                              │
+│  ████████████████████████████████████████  BUILDING... 🚀   │
+│                                                              │
 └──────────────────────────────────────────────────────────────┘
-
-</div>
-
-<br>
-
-<div align="center">
-
-⚡ Quick Facts
-🌍 Location	💻 Role	🧩 Focus	☕ Fuel
-🇮🇳 India	Full Stack Developer	Cloud & DevOps	Coffee + Code
-
-</div>
-
-<br>
-
-<div align="center">
-
-💬 Let's Build Something
-
-Have an idea, project, or interesting problem?
-
-I'm always interested in building, experimenting and learning something new.
-
-📫 Let's Connect
-
-</div>
