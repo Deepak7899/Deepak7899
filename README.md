@@ -37,7 +37,7 @@
 <!-- About Me Section with GIF -->
 <img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif">
 
-```markdown
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       ABOUT ME SECTION                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -114,7 +114,6 @@ I love working across the stack — from designing responsive interfaces to buil
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-```
 
 
 
